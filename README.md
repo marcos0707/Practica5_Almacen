@@ -4,3 +4,4 @@ productos de almacén
 ![prac5_2](https://user-images.githubusercontent.com/65789503/84213644-3685b900-aa8f-11ea-94d4-7817e782ec5e.png)
 
 ![prac5_3png](https://user-images.githubusercontent.com/65789503/84213651-3dacc700-aa8f-11ea-9c40-bc5fee7b772b.png)
+![prac5_4](https://user-images.githubusercontent.com/65789503/84214013-27533b00-aa90-11ea-8b9d-342382a17367.png)
